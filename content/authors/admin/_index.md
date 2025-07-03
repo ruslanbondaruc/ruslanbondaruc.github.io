@@ -129,7 +129,7 @@ skills:
       - name: Cooking
         description: ''
         percent: 60
-        icon: "custom/cookink"
+        icon: "custom/cooking"
       - name: Tech
         description: ''
         percent: 80
