@@ -126,10 +126,10 @@ skills:
         description: ''
         percent: 100
         icon: "custom/football"
-      - name: Cooking
-        description: ''
-        percent: 60
-        icon: "custom/cooking"
+      # - name: Cooking
+      #   description: ''
+      #   percent: 60
+      #   icon: "custom/cooking"
       - name: Tech
         description: ''
         percent: 80
