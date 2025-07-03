@@ -40,8 +40,8 @@ profiles:
 education:
   - area: PhD in Computer Science
     institution: Università degli Studi di Milano
-    date_start: 2022-10
-    date_end: 2025-12
+    date_start: 2022-10-01
+    date_end: 2025-12-01
     summary: |
       Research Project: *A Security-Driven Service Composition for Data-Intensive Pipelines in Cloud-Edge Continuum*.
     # button:
@@ -49,15 +49,15 @@ education:
     #   url: 'https://example.com'
   - area: M.Sc. in Informatics Security
     institution: Università degli Studi di Milano
-    date_start: 2020-10
-    date_end: 2022-09
+    date_start: 2020-10-01
+    date_end: 2022-09-01
     summary: |
       Thesis title: *An Advanced Security Assurance System for Edge/IoT Environments*.
       Grade: 110/110 cum Laude. 
   - area: B.Sc. in Computer Systems and Networks Security
     institution: Università degli Studi di Milano
-    date_start: 2017-10
-    date_end: 2020-12
+    date_start: 2017-10-01
+    date_end: 2020-12-01
     summary: |
       Thesis title: *Studio e Sviluppo di un’Architettura 5G per Sistemi di Intrusion Detection*.
       Grade: 110/110 cum Laude.
@@ -73,31 +73,31 @@ work:
     company_url: ''
     company_logo: ''
     date_start: 2025-01-13
-    date_end: '2025-07-13'
+    date_end: 2025-07-13
     summary: |2-
       Development of a Reinforcement Learning-based service placement approach for microservice deployment in the Cloud-Edge Continuum according to security properties.
   - position: UAE Rain Enhancement Project (UAEREP)
     company_name: Università degli Studi di Milano, Khalifa University.
     company_url: ''
     company_logo: ''
-    date_start: 2024-09
-    date_end: '2025-08'
+    date_start: 2024-09-01
+    date_end: 2025-08-01
     summary: |
       Containerization and orchestration of cloud analysis and rain forecasting workflows in an HPC infrastructure.
   - position: PNRR Multilayered Urban Sustainability Action (MUSA) project
     company_name: Università degli Studi di Milano.
     company_url: ''
     company_logo: ''
-    date_start: 2022-10
-    date_end: '2025-09'
+    date_start: 2022-10-01
+    date_end: 2025-09-01
     summary: |
       Contribution to WP1, T1.1.1, aiming to define service deployment strategies in the Cloud-to-5G Edge Continuum, including AWS and private Cloud infrastructures.
   - position: Research scholarship “Orio Carlini” – Consortium GARR
     company_name: Università degli Studi di Milano.
     company_url: ''
     company_logo: ''
-    date_start: 2021-03
-    date_end: 2022-09
+    date_start: 2021-03-01
+    date_end: 2022-09-01
     summary: |
       Development of an IoT Security Assurance approach through Edge/5G Infrastructure.
 
