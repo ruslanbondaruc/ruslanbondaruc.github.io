@@ -61,12 +61,12 @@ education:
     summary: |
       Thesis title: *Studio e Sviluppo di un’Architettura 5G per Sistemi di Intrusion Detection*.
       Grade: 110/110 cum Laude.
-      # GPA: 3.4/4.0
-      #
-      # Courses included:
-      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    # GPA: 3.4/4.0
+    #
+    # Courses included:
+    # - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    # - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    # - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
   - position: Industrial collaboration at Leonardo S.p.A.
     company_name: Università degli Studi di Milano, Leonardo S.p.A.
