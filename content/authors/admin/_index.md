@@ -34,7 +34,7 @@ profiles:
     url: https://github.com/ruslanbondaruc
   # - icon: brands/linkedin
   #   url: https://www.linkedin.com/
-  - icon: orcid
+  - icon: brands/orcid
     url: https://orcid.org/0000-0002-2581-9915
 
 education:
