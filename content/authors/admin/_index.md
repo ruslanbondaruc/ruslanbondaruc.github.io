@@ -75,7 +75,8 @@ work:
     date_start: 2025-01-13
     date_end: 2025-07-13
     summary: |2-
-      Development of a Reinforcement Learning-based service placement approach for microservice deployment in the Cloud-Edge Continuum according to security properties.
+      - Developed a reinforcement-learning strategy that chooses where to deploy services across the Cloud-Edge continuum, using security attributes to steer the optimization.
+      - Built a placement framework that balances efficient resource utilization with strict adherence to security constraints.
   - position: UAE Rain Enhancement Project (UAEREP)
     company_name: Università degli Studi di Milano, Khalifa University.
     company_url: ''
@@ -83,7 +84,9 @@ work:
     date_start: 2024-09-01
     date_end: 2025-08-01
     summary: |
-      Containerization and orchestration of cloud analysis and rain forecasting workflows in an HPC infrastructure.
+      - Packaged atmospheric data processing and rainfall-prediction pipelines into containers and orchestrated them across high-performance computing platforms.
+
+      - Rolled out and fine-tuned these containerized workflows on HPC clusters to maximize performance.
   - position: PNRR Multilayered Urban Sustainability Action (MUSA) project
     company_name: Università degli Studi di Milano.
     company_url: ''
@@ -91,7 +94,25 @@ work:
     date_start: 2022-10-01
     date_end: 2025-09-01
     summary: |
-      Contribution to WP1, T1.1.1, aiming to define service deployment strategies in the Cloud-to-5G Edge Continuum, including AWS and private Cloud infrastructures.
+      - Contributed to WP1, T1.1.1, aiming to define service deployment strategies in the Cloud-to-5G Edge Continuum, including AWS and private Cloud infrastructures.
+
+      - Crafted service-placement strategies that span the Cloud-to-5G Edge continuum, seamlessly combining AWS with private-cloud resources.
+
+      - Built end-to-end service pipelines orchestrated through AWS Step Functions and EKS.
+
+      - Created a deployment framework that runs smoothly across heterogeneous computing platforms.
+  - position: PhD in Computer Science
+    company_name: Università degli Studi di Milano.
+    company_url: ''
+    company_logo: ''
+    date_start: 2022-10-01
+    date_end: 2025-09-01
+    summary: |
+      - Carried out innovative research by integrating in-depth literature reviews, experimental work, and prototype development.
+
+      - Supervised and mentored Bachelor’s and Master’s students from project inception all the way to their final defenses.
+
+      - Tutored the “Service-Oriented Architectures” course, supporting learners throughout the term and assessing them in the final exams.
   - position: Research scholarship “Orio Carlini” – Consortium GARR
     company_name: Università degli Studi di Milano.
     company_url: ''
@@ -99,7 +120,7 @@ work:
     date_start: 2021-03-01
     date_end: 2022-09-01
     summary: |
-      Development of an IoT Security Assurance approach through Edge/5G Infrastructure.
+      - Developed an IoT Security Assurance approach through Edge/5G Infrastructure.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`

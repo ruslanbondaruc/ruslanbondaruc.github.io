@@ -16,7 +16,7 @@ sections:
       username: admin
       # Show a call-to-action button under your biography? (optional)
       button:
-        text: Download Résumé
+        text: Download CV
         url: uploads/resume.pdf
     design:
       banner:
@@ -38,10 +38,10 @@ sections:
     content:
       title: Skills & Hobbies
       username: admin
-  - block: awards
-    content:
-      title: Awards
-      username: admin
+#  - block: awards
+#    content:
+#      title: Awards
+#      username: admin
   - block: languages
     content:
       title: Languages
